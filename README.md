@@ -1,4 +1,4 @@
-# Creditcard-Fraud-Detection
+# Credit Card Fraud Detection
 DLithe Internship Certification Program
  
 Project Topic :Credit Card Fraud Detection  
